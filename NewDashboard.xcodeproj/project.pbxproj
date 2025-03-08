@@ -18,6 +18,7 @@
 		36E3374A2D3797A200C2407F /* NewDashboardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36E337492D3797A200C2407F /* NewDashboardTests.swift */; };
 		36E337542D3797A300C2407F /* NewDashboardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36E337532D3797A300C2407F /* NewDashboardUITests.swift */; };
 		36E337562D3797A300C2407F /* NewDashboardUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36E337552D3797A300C2407F /* NewDashboardUITestsLaunchTests.swift */; };
+		36F283EF2D7C2345002730C0 /* TestingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36F283EE2D7C2345002730C0 /* TestingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		36E3374F2D3797A200C2407F /* NewDashboardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NewDashboardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		36E337532D3797A300C2407F /* NewDashboardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewDashboardUITests.swift; sourceTree = "<group>"; };
 		36E337552D3797A300C2407F /* NewDashboardUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewDashboardUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		36F283EE2D7C2345002730C0 /* TestingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				36E337402D3797A200C2407F /* Info.plist */,
 				36A836892D54703700BB32AA /* GradientViewController.swift */,
 				36A8368B2D5473AB00BB32AA /* GradientBorderBgView.swift */,
+				36F283EE2D7C2345002730C0 /* TestingViewController.swift */,
 			);
 			path = NewDashboard;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 				36A8368A2D54703700BB32AA /* GradientViewController.swift in Sources */,
 				36E337372D3797A200C2407F /* ViewController.swift in Sources */,
 				36E337332D3797A200C2407F /* AppDelegate.swift in Sources */,
+				36F283EF2D7C2345002730C0 /* TestingViewController.swift in Sources */,
 				36E337352D3797A200C2407F /* SceneDelegate.swift in Sources */,
 				36A8368C2D5473AB00BB32AA /* GradientBorderBgView.swift in Sources */,
 			);
